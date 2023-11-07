@@ -5,7 +5,7 @@ This project contains a collection of MySQL scripts and an enhanced entity relat
 
 ## MySQL Scripts
 
-### The following MySQL scripts are included in the project for [create-databases](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql):
+### The following [MySQL scripts](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/MySQL%20Queries%20%26%20Enhanced%20Entity%20Relationship%20Diagram.docx) are included in the project for [create-databases](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql):
 
 [Query 1 1](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%201%201.sql)<br>
 [Query 2](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%202.sql)<br>
@@ -18,7 +18,7 @@ Task 5 - Select sql_inventory and write a query to find out the name of the most
 Task 6 - Select sql_store and write a query to find out the first name, last name, address and the birthdate of the oldest customer.<br>
 
 
-### The following MySQL scripts are included in the project for [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql):
+### The following [MySQL scripts](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/MySQL%20Queries%20%26%20Enhanced%20Entity%20Relationship%20Diagram.docx) are included in the project for [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql):
 
 Task 1 – Get the number of cities in the USA<br>
 Task 2 - Find out what the population and life expectancy for people in Argentina (ARG) is<br>
