@@ -1,11 +1,11 @@
 # MySQL Scripts and Enhanced Entity Relationship Diagram
 ## Introduction
 
-This project contains a collection of MySQL scripts and an enhanced entity relationship diagram (EER) for the 2 databases(create-database & [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql)). The EER diagram provides a visual representation of the relationships between the tables in the databases.
+This project contains a collection of MySQL scripts and an enhanced entity relationship diagram (EER) for the 2 databases([create-database](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql) & [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql)). The EER diagram provides a visual representation of the relationships between the tables in the databases.
 
 ## MySQL Scripts
 
-### The following MySQL scripts are included in the project for create-databases:
+### The following MySQL scripts are included in the project for [create-databases](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql):
 
 Task 1 - Part 1 - Using the Query 2 you created change the points to reads times by 10 and plus 100.<br>
 Task 1 - Part 2 - Create a discount factor so the table now shows a discount header and changing the (point + 10) *100<br>
@@ -34,7 +34,7 @@ Challenge 3 - Create a SQL statement to find all cities from the Europe continen
 
 ## Enhanced Entity Relationship Diagram
 
-### The following is an enhanced entity relationship diagram for the create-database SQL_Store database:
+### The following is an enhanced entity relationship diagram for the [create-database](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql) SQL_Store database:
 ![image](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/assets/61353059/5e946cf9-caab-487f-89b1-3ac616387c8c)
 
 ### The following is an enhanced entity relationship diagram for the [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql) database:
