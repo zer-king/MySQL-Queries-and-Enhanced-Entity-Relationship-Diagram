@@ -1,7 +1,7 @@
 # MySQL Scripts and Enhanced Entity Relationship Diagram
 ## Introduction
 
-This project contains a collection of MySQL scripts and an enhanced entity relationship diagram (EER) for the 2 databases(create-database & world db). The EER diagram provides a visual representation of the relationships between the tables in the databases.
+This project contains a collection of MySQL scripts and an enhanced entity relationship diagram (EER) for the 2 databases(create-database & [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql)). The EER diagram provides a visual representation of the relationships between the tables in the databases.
 
 ## MySQL Scripts
 
@@ -16,7 +16,7 @@ Task 5 - Select sql_inventory and write a query to find out the name of the most
 Task 6 - Select sql_store and write a query to find out the first name, last name, address and the birthdate of the oldest customer.<br>
 
 
-### The following MySQL scripts are included in the project for world db:
+### The following MySQL scripts are included in the project for [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql):
 
 Task 1 – Get the number of cities in the USA<br>
 Task 2 - Find out what the population and life expectancy for people in Argentina (ARG) is<br>
@@ -37,7 +37,7 @@ Challenge 3 - Create a SQL statement to find all cities from the Europe continen
 ### The following is an enhanced entity relationship diagram for the create-database SQL_Store database:
 ![image](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/assets/61353059/5e946cf9-caab-487f-89b1-3ac616387c8c)
 
-### The following is an enhanced entity relationship diagram for the world db database:
+### The following is an enhanced entity relationship diagram for the [world db](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/world%20db.sql) database:
 ![image](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/assets/61353059/2b0bf316-6d52-43cc-857c-3c430dd95174)
 
 ## Conclusion
