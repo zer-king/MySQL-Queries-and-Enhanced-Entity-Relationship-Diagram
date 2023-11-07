@@ -7,8 +7,8 @@ This project contains a collection of MySQL scripts and an enhanced entity relat
 
 ### The following MySQL scripts are included in the project for [create-databases](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/create-databases.sql):
 
-[Query 1 1](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%201%201.sql)
-[Query 2](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%202.sql)
+[Query 1 1](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%201%201.sql)<br>
+[Query 2](https://github.com/zer-king/MySQL-Queries-and-Enhanced-Entity-Relationship-Diagram/blob/main/Query%202.sql)<br>
 Task 1 - Part 1 - Using the Query 2 you created change the points to reads times by 10 and plus 100.<br>
 Task 1 - Part 2 - Create a discount factor so the table now shows a discount header and changing the (point + 10) *100<br>
 Task 2 - Return all the products in our database in the result set. I want you to show columns; name, unit price, and new column called new price which is based on increasing the product price of each by 10%.<br>
