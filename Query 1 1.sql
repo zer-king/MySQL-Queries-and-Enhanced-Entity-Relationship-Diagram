@@ -1,0 +1,5 @@
+USE sql_store;
+SELECT *
+FROM CUSTOMERS 
+-- WHERE CUSTOMER_ID=1
+ORDER BY first_name;
